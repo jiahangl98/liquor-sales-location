@@ -16,7 +16,7 @@ title: "About me"
 On this about page, you might want to add more information about yourself, 
 the project, or course. Any helpful context could go here!
 
-My name is Nick Hand, the instructor for the course. You can find more 
+My name is Jiahang Li, a second year master of city planning student at Penn. You can find more 
 information about me on my [personal website](https://www.nickhand.dev/).
 
 This site is an example site showing how to use Quarto for 
