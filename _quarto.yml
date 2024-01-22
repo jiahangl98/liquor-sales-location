@@ -7,7 +7,7 @@ project:
 website:
   title: "MUSA 550 Quarto Template"
   site-url: "https://jiahangl98.github.io/liquor-sales-location/" 
-  repo-url: https://jiahangl98.github.io/liquor-sales-location/ 
+  repo-url: https://github.com/jiahangl98.github.io/liquor-sales-location/ 
   repo-actions: [source]
 
   page-footer:
