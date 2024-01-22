@@ -36,7 +36,7 @@ website:
       - section: analysis/index.qmd
         contents:
           - analysis/1-python-code-blocks.qmd 
-          - analysis/sales(1).ipynb
+          - analysis/sales(2).ipynb
       
 format:
   html:
