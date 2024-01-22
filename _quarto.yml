@@ -38,7 +38,6 @@ website:
           - analysis/1-python-code-blocks.qmd 
           - analysis/sales(1).ipynb
       
-
 format:
   html:
     highlight-style: solarized
