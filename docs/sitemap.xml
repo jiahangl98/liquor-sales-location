@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://musa-550-fall-2023.github.io/quarto-website-template/about.html</loc>
-    <lastmod>2023-10-31T00:22:27.715Z</lastmod>
+    <lastmod>2024-01-10T05:12:02.582Z</lastmod>
   </url>
   <url>
     <loc>https://musa-550-fall-2023.github.io/quarto-website-template/analysis/4-folium.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://musa-550-fall-2023.github.io/quarto-website-template/analysis/1-python-code-blocks.html</loc>
-    <lastmod>2023-10-31T00:22:26.171Z</lastmod>
+    <lastmod>2024-01-10T05:12:02.582Z</lastmod>
   </url>
   <url>
     <loc>https://musa-550-fall-2023.github.io/quarto-website-template/analysis/3-altair-hvplot.html</loc>
@@ -26,6 +26,22 @@
   </url>
   <url>
     <loc>https://musa-550-fall-2023.github.io/quarto-website-template/index.html</loc>
-    <lastmod>2023-10-31T00:22:27.429Z</lastmod>
+    <lastmod>2024-01-10T05:12:02.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musa-550-fall-2023.github.io/quarto-website-template/analysis/sales (2).html</loc>
+    <lastmod>2024-01-22T03:02:17.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiahangl98.github.io/liquor-sales-location/index.html</loc>
+    <lastmod>2024-01-10T05:12:02.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiahangl98.github.io/liquor-sales-location/about.html</loc>
+    <lastmod>2024-01-10T05:12:02.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiahangl98.github.io/liquor-sales-location/analysis/1-python-code-blocks.html</loc>
+    <lastmod>2024-01-10T05:12:02.582Z</lastmod>
   </url>
 </urlset>
